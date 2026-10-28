@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "6aa7a71ce86fca1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "96179f11aed70cb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "321b44511fcf5ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interazione e Multimedia/Interazione e Multimedia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interazione e Multimedia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "811693e7cb261623",
+    "type": "split",
+    "children": [
+      {
+        "id": "311179b59d6e8d27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66b26534c2e2ae9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora file"
+            }
+          },
+          {
+            "id": "38306092fd4866f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "62e4a2f2e9e0840a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71e6b076c8be0546",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fdd3a3b5c8dc056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69815076021e7185",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Indice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "8ed2dbee4ece0bf3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Architettura degli Elaboratori/Architettura degli Elaboratori.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "89de37ba14af7ba4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "9ace7f7903b0cef7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "2108ce3fd418ef4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Indice.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          },
+          {
+            "id": "a2c12c26349ac1ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Architettura degli Elaboratori/Architettura degli Elaboratori.md"
+              },
+              "icon": "lucide-info",
+              "title": "Proprietà file"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selettore rapido": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "321b44511fcf5ccd",
+  "lastOpenFiles": [
+    "Schermata_20261027_111342.png",
+    "Schermata_20261027_111246.png",
+    "Interazione e Multimedia/lezioni/Lez 03 - Operazioni sulle matrici 2024-2025.pdf",
+    "Interazione e Multimedia/Interazione e Multimedia.md",
+    "Schermata_20261027_110633.png",
+    "Interazione e Multimedia/lezioni/Lez 02 - I fondamenti.pdf",
+    "Interazione e Multimedia/lezioni/Lez 01- Introduttiva_2024-25.pdf",
+    "Strutture Discrete/Strutture Discrete.md",
+    "Interazione e Multimedia/Laboratorio.md",
+    "Algoritmi/Algoritmi.md",
+    "heapsort_heap_reduce.webp",
+    "image.png",
+    "22E37816-145B-4F0A-97C9-70ECA8760203.gif",
+    "954734A9-43E8-4DF0-907F-482EC13CD238 1.gif",
+    "954734A9-43E8-4DF0-907F-482EC13CD238.gif",
+    "Algoritmi/Senza nome.md",
+    "Secondo Anno.md",
+    "Indice.md",
+    "Interazione e Multimedia/sketch/sketch_261020a/sketch_261020a.pde",
+    "Interazione e Multimedia/sketch/sketch_261020a",
+    "Interazione e Multimedia/sketch/sketch_261013a/sketch_261013a.pde",
+    "Interazione e Multimedia/sketch/sketch_261013a/sketch_261013a/sketch_261013a.pde",
+    "Interazione e Multimedia/sketch/sketch_261013a/sketch_261013a",
+    "Interazione e Multimedia/sketch/sketch_261013a",
+    "Interazione e Multimedia/sketch/sketch_261006a.pde",
+    "Basi di Dati/Basi di Dati.md",
+    "Programmazione II/Programmazione II.md",
+    "Architettura degli Elaboratori/Architettura degli Elaboratori.md",
+    "Strutture Discrete/GuidaEsercizi.md",
+    "Analisi II/Analisi 2.md",
+    "big-theta-tight-bound-graph.png",
+    "screenshot-2026-10-07_08-20-57.png",
+    "screenshot-2026-10-05_11-37-06.png",
+    "Programmazione I/Programmazione I.md",
+    "Primo Anno.md",
+    "Inglese/Inglese.md",
+    "Analisi I/Analisi 1.md",
+    "Fondamenti di Informatica/Fondamenti di Informatica.md",
+    "Algebra Lineare e Geometria/Algebra Lineare.md"
+  ]
+}
